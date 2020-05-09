@@ -1,0 +1,16 @@
+run : make
+
+DESCROPTION:
+		this game is sample , will give the sum of many numbers form the first number
+	EX:
+		if the operation 5   first number => 345632  the result is 2345630
+		your nbr	=> 345632
+		your nbr	=> 450195
+		game's nbr	=> 549804
+		yuor nbr	=> 500569
+		game's nbr	=> 499430
+	explent:
+		result:
+			if first nbr => 234 and the oper => 5 the result => 234 + 1998
+		game's nbr:
+			if your nbr => 123 and the oper => 5 the game's nbr => 999 - 123
